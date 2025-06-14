@@ -1,0 +1,78 @@
+#nav{
+    height: 50px;
+   
+    
+    
+}
+#fit
+{
+    color:black;
+    font-size: 50px;
+    margin-right: 850px;
+}
+img{
+    height: 50px;
+    width: 85.66px;
+}
+.all{
+    margin: 5px;
+    align-items: end;
+    background-color: rgb(221, 146, 32);
+}
+#hi{
+    background-image: url(gym.jpg);
+    background-size: contain;
+    height: 500px;
+    text-align: center;
+    
+}
+.talk{
+    color: white;
+}
+#bu{
+    background-color:rgb(221, 146, 32);
+    color: black;
+    size: 20px;
+}
+#bla{
+    font-size: 50px;
+    
+}
+#para{
+    font-size: 40px;
+    
+    color: bisque;
+}
+#off{
+    height: 300px;
+    background-color: black;
+}
+h2{
+    color: white;
+    margin-left: 700px;
+}
+.price{
+    display: inline-block;
+    height: 200px;
+    width: 500px;
+    text-align: center;
+    border: 2px solid white;
+    
+}
+#man{
+    background-image:url(MAN.jpg);
+    color: white;
+    margin-right: 450px;
+    margin-left: 20px;
+    background-size: contain;
+    font-size: 20px;
+}
+#women{
+    background-image: url(WOman.jpg);
+    color: white;
+    background-size: contain;
+    font-size: 20px;
+}
+h3{
+    color:rgb(77, 187, 34);
+}
